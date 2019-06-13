@@ -1304,3 +1304,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 #footer .credits a {
   color: #0c2e8a;
 }
+
+
+.wow h4 {
+  color: #4d618a !important;
+}

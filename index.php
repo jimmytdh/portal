@@ -1,6 +1,6 @@
 <?php
     $host = $_SERVER['SERVER_NAME'];
-    $url = "http://$host/tdh";
+    $url = "http://$host";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -33,7 +33,9 @@
 
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
-
+  <style>
+      .hide { visibility: hidden; }
+  </style>
   <!-- =======================================================
     Theme Name: Reveal
     Theme URL: https://bootstrapmade.com/reveal-bootstrap-corporate-template/

@@ -154,7 +154,7 @@
                         <div class="icon"><i class="fa fa-hospital-o"></i></div>
                         <h4 class="title">Hospital System</h4>
                         <p class="description">
-                            Web based system that helps hospital personnel to lessen workload. It is different form iHOMIS.
+                            An alternative Web based Information System that helps personnel to automate manual works.
                         </p>
                     </div>
                 </a>

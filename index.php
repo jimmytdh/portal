@@ -148,6 +148,19 @@
         </div>
 
         <div class="row">
+            <div class="col-lg-6">
+                <a href="<?php echo "$url/his";?>">
+                    <div class="box wow fadeInLeft">
+                        <div class="icon"><i class="fa fa-hospital-o"></i></div>
+                        <h4 class="title">Hospital System</h4>
+                        <p class="description">
+                            Web based system that helps hospital personnel to lessen workload. It is different form iHOMIS.
+                        </p>
+                    </div>
+                </a>
+            </div>
+
+
           <div class="col-lg-6">
               <a href="<?php echo "$url/qs";?>">
                 <div class="box wow fadeInLeft">
@@ -178,7 +191,7 @@
                         <div class="icon"><i class="fa fa-book"></i></div>
                         <h4 class="title">NIMS</h4>
                         <p class="description">
-                            Web based system of NIMS
+                            Web based system that helps Nursing Service Office to automate churva (Si Roland lang bahala ani)
                         </p>
                     </div>
                 </a>

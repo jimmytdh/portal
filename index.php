@@ -8,7 +8,7 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
   <meta charset="utf-8">
-  <title>TalisayMedSys Portal</title>
+  <title>Cebu South Medical Center Portal</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -66,7 +66,7 @@
     <div class="container">
 
       <div id="logo" class="pull-left">
-        <h1><a href="#body" class="scrollto">TDH<span>Portal</span></a></h1>
+        <h1><a href="#body" class="scrollto">CSMC<span>Portal</span></a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="#body"><img src="img/logo.png" alt="" title="" /></a>-->
       </div>
@@ -95,7 +95,7 @@
   <section id="intro">
 
     <div class="intro-content">
-      <h2>Talisay District Hospital<br /><span>Information Systems!</span></h2>
+      <h2>Cebu South Medical Center<br /><span>Information Systems!</span></h2>
     </div>
 
     <div id="intro-carousel" class="owl-carousel" >
@@ -121,7 +121,7 @@
           </div>
 
           <div class="col-lg-6 content">
-            <h2>TDH - Information Systems</h2>
+            <h2>CSMC - Information Systems</h2>
             <h3>Aims to automate health, management and human resource management for much faster transactions and operations.</h3>
 
             <ul>
@@ -148,26 +148,41 @@
         </div>
 
         <div class="row">
-
           <div class="col-lg-6">
-            <div class="box wow fadeInLeft">
-              <div class="icon"><i class="fa fa-clock-o"></i></div>
-              <h4 class="title"><a href="<?php echo "$url/qs";?>">Queuing System</a></h4>
-              <p class="description">
-                  Web based system that decrease customer wait times and improve your service efficiency.
-              </p>
-            </div>
+              <a href="<?php echo "$url/qs";?>">
+                <div class="box wow fadeInLeft">
+                  <div class="icon"><i class="fa fa-clock-o"></i></div>
+                  <h4 class="title">Queuing System</h4>
+                  <p class="description">
+                      Web based system that decrease customer wait times and improve your service efficiency.
+                  </p>
+                </div>
+              </a>
           </div>
 
           <div class="col-lg-6">
-            <div class="box wow fadeInRight">
-              <div class="icon"><i class="fa fa-book"></i></div>
-              <h4 class="title"><a href="<?php echo "$url/soc";?>">eSOA</a></h4>
-              <p class="description">
-                  Electronic Statement of Account or eSOA automates the manual process of generating SOA to the patients.
-              </p>
-            </div>
+              <a href="<?php echo "$url/soc";?>">
+                <div class="box wow fadeInRight">
+                  <div class="icon"><i class="fa fa-book"></i></div>
+                  <h4 class="title">eSOA</h4>
+                  <p class="description">
+                      Electronic Statement of Account or eSOA automates the manual process of generating SOA to the patients.
+                  </p>
+                </div>
+              </a>
           </div>
+
+            <div class="col-lg-6">
+                <a href="<?php echo "$url/nims";?>">
+                    <div class="box wow fadeInRight">
+                        <div class="icon"><i class="fa fa-book"></i></div>
+                        <h4 class="title">NIMS</h4>
+                        <p class="description">
+                            Web based system of NIMS
+                        </p>
+                    </div>
+                </a>
+            </div>
       </div>
 
         </div>
@@ -188,53 +203,63 @@
               <div class="row">
 
                   <div class="col-lg-6">
-                      <div class="box wow fadeInLeft">
-                          <div class="icon"><i class="fa fa-barcode"></i></div>
-                          <h4 class="title"><a href="<?php echo "$url/dts";?>">DTS</a></h4>
-                          <p class="description">
-                              Document Tracking System is a web based information system that tracks the flow of the documents.
-                          </p>
-                      </div>
+                      <a href="<?php echo "$url/dts";?>">
+                          <div class="box wow fadeInLeft">
+                              <div class="icon"><i class="fa fa-barcode"></i></div>
+                              <h4 class="title">DTS</h4>
+                              <p class="description">
+                                  Document Tracking System is a web based information system that tracks the flow of the documents.
+                              </p>
+                          </div>
+                      </a>
                   </div>
 
                   <div class="col-lg-6">
-                      <div class="box wow fadeInRight">
-                          <div class="icon"><i class="fa fa-archive"></i></div>
-                          <h4 class="title"><a href="<?php echo "$url/intranet";?>">INTRANET</a></h4>
-                          <p class="description">
-                              A web based information system that stores all the hospital order records.
-                          </p>
-                      </div>
+                      <a href="<?php echo "$url/intranet";?>">
+                          <div class="box wow fadeInRight">
+                              <div class="icon"><i class="fa fa-archive"></i></div>
+                              <h4 class="title">INTRANET</h4>
+                              <p class="description">
+                                  A web based information system that stores all the hospital order records.
+                              </p>
+                          </div>
+                      </a>
                   </div>
 
                   <div class="col-lg-6">
-                      <div class="box wow fadeInLeft">
-                          <div class="icon"><i class="fa fa-calendar"></i></div>
-                          <h4 class="title"><a href="<?php echo "$url/calendar";?>">CALENDAR</a></h4>
-                          <p class="description">
-                              Web based information system that lists all the events regarding hospital activities.
-                          </p>
-                      </div>
+                      <a href="<?php echo "$url/calendar";?>">
+                          <div class="box wow fadeInLeft">
+                              <div class="icon"><i class="fa fa-calendar"></i></div>
+                              <h4 class="title">CALENDAR</h4>
+                              <p class="description">
+                                  Web based information system that lists all the events regarding hospital activities.
+                              </p>
+                          </div>
+                      </a>
                   </div>
 
                   <div class="col-lg-6">
-                      <div class="box wow fadeInRight">
-                          <div class="icon"><i class="fa fa-files-o"></i></div>
-                          <h4 class="title"><a href="<?php echo "$url/css";?>">CSS</a></h4>
-                          <p class="description">
-                              Web based information system that consolidates result based on the CSS Form.
-                          </p>
-                      </div>
+                      <a href="<?php echo "$url/css";?>">
+                          <div class="box wow fadeInRight">
+                              <div class="icon"><i class="fa fa-files-o"></i></div>
+                              <h4 class="title">CSS</h4>
+                              <p class="description">
+                                  Web based information system that consolidates result based on the CSS Form.
+                              </p>
+                          </div>
+                      </a>
                   </div>
 
                   <div class="col-lg-6">
-                      <div class="box wow fadeInRight">
-                          <div class="icon"><i class="fa fa-wrench"></i></div>
-                          <h4 class="title"><a href="<?php echo "$url/srs";?>">SRS</a></h4>
-                          <p class="description">
-                              Service Request System allow users to request or borrow equipments from IT Office.
-                          </p>
-                      </div>
+                      <a href="<?php echo "$url/srs";?>">
+                          <div class="box wow fadeInRight">
+                              <div class="icon"><i class="fa fa-wrench"></i></div>
+                              <h4 class="title">SRS</h4>
+                              <p class="description">
+                                  Service Request System allow users to request or borrow equipments from IT Office.
+                              </p>
+                          </div>
+                      </a>
                   </div>
               </div>
 
@@ -253,45 +278,52 @@
               </div>
 
               <div class="row">
-
                   <div class="col-lg-6">
-                      <div class="box wow fadeInLeft">
-                          <div class="icon"><i class="fa fa-clock-o"></i></div>
-                          <h4 class="title"><a href="<?php echo "$url/dtr";?>">DTR</a></h4>
-                          <p class="description">
-                              Web based application that allow users to view their Daily Time Record.
-                          </p>
-                      </div>
+                      <a href="<?php echo "$url/dtr";?>">
+                          <div class="box wow fadeInLeft">
+                              <div class="icon"><i class="fa fa-clock-o"></i></div>
+                              <h4 class="title">DTR</h4>
+                              <p class="description">
+                                  Web based application that allow users to view their Daily Time Record.
+                              </p>
+                          </div>
+                      </a>
                   </div>
 
                   <div class="col-lg-6">
-                      <div class="box wow fadeInRight">
-                          <div class="icon"><i class="fa fa-vcard"></i></div>
-                          <h4 class="title"><a href="<?php echo "$url/pis";?>">PIS</a></h4>
-                          <p class="description">
-                              A contemporary software tool for comprehensive support of personnel functions
-                          </p>
-                      </div>
+                      <a href="<?php echo "$url/pis";?>">
+                          <div class="box wow fadeInRight">
+                              <div class="icon"><i class="fa fa-vcard"></i></div>
+                              <h4 class="title">PIS</h4>
+                              <p class="description">
+                                  A contemporary software tool for comprehensive support of personnel functions
+                              </p>
+                          </div>
+                      </a>
                   </div>
 
                   <div class="col-lg-6">
-                      <div class="box wow fadeInRight">
-                          <div class="icon"><i class="fa fa-credit-card"></i></div>
-                          <h4 class="title"><a href="<?php echo "$url/payroll";?>">Payroll</a></h4>
-                          <p class="description">
-                              Involves everything that has to do with the payment of employees and the filing of employment taxes.
-                          </p>
-                      </div>
+                      <a href="<?php echo "$url/payroll";?>">
+                          <div class="box wow fadeInRight">
+                              <div class="icon"><i class="fa fa-credit-card"></i></div>
+                              <h4 class="title">Payroll</h4>
+                              <p class="description">
+                                  Involves everything that has to do with the payment of employees and the filing of employment taxes.
+                              </p>
+                          </div>
+                      </a>
                   </div>
 
                   <div class="col-lg-6">
-                      <div class="box wow fadeInRight">
-                          <div class="icon"><i class="fa fa-bar-chart"></i></div>
-                          <h4 class="title"><a href="<?php echo "$url/lms";?>">LMS</a></h4>
-                          <p class="description">
-                              Leave Management System allow the user to check their remaining leave credits.
-                          </p>
-                      </div>
+                      <a href="<?php echo "$url/lms";?>">
+                          <div class="box wow fadeInRight">
+                              <div class="icon"><i class="fa fa-bar-chart"></i></div>
+                              <h4 class="title">LMS</h4>
+                              <p class="description">
+                                  Leave Management System allow the user to check their remaining leave credits.
+                              </p>
+                          </div>
+                      </a>
                   </div>
               </div>
 

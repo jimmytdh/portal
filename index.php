@@ -349,51 +349,51 @@
     <!--==========================
       Our Team Section
     ============================-->
-    <section id="team" class="wow fadeInUp">
-      <div class="container">
-        <div class="section-header">
-          <h2>Our Team</h2>
-        </div>
-        <div class="row">
-            <div class="col-lg-3 col-md-6"></div>
-          <div class="col-lg-3 col-md-6">
-            <div class="member">
-              <div class="pic"><img src="img/team-1.jpg" alt=""></div>
-              <div class="details">
-                <h4>Jimmy B. Lomocso Jr.</h4>
-                <span>System Analyst/Programmer</span>
-                <div class="social">
-                  <a href="#"><i class="fa fa-twitter"></i></a>
-                  <a href="#"><i class="fa fa-facebook"></i></a>
-                  <a href="#"><i class="fa fa-google-plus"></i></a>
-                  <a href="#"><i class="fa fa-linkedin"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-
-          <div class="col-lg-3 col-md-6">
-            <div class="member">
-              <div class="pic"><img src="img/team-3.jpg" alt=""></div>
-              <div class="details">
-                <h4>Wairley Von C. Cabiluna</h4>
-                <span>Computer Maintenance Technologist</span>
-                <div class="social">
-                  <a href="#"><i class="fa fa-twitter"></i></a>
-                  <a href="#"><i class="fa fa-facebook"></i></a>
-                  <a href="#"><i class="fa fa-google-plus"></i></a>
-                  <a href="#"><i class="fa fa-linkedin"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-
-        </div>
-
-      </div>
-    </section><!-- #team -->
+<!--    <section id="team" class="wow fadeInUp">-->
+<!--      <div class="container">-->
+<!--        <div class="section-header">-->
+<!--          <h2>Our Team</h2>-->
+<!--        </div>-->
+<!--        <div class="row">-->
+<!--            <div class="col-lg-3 col-md-6"></div>-->
+<!--          <div class="col-lg-3 col-md-6">-->
+<!--            <div class="member">-->
+<!--              <div class="pic"><img src="img/team-1.jpg" alt=""></div>-->
+<!--              <div class="details">-->
+<!--                <h4>Jimmy B. Lomocso Jr.</h4>-->
+<!--                <span>System Analyst/Programmer</span>-->
+<!--                <div class="social">-->
+<!--                  <a href="#"><i class="fa fa-twitter"></i></a>-->
+<!--                  <a href="#"><i class="fa fa-facebook"></i></a>-->
+<!--                  <a href="#"><i class="fa fa-google-plus"></i></a>-->
+<!--                  <a href="#"><i class="fa fa-linkedin"></i></a>-->
+<!--                </div>-->
+<!--              </div>-->
+<!--            </div>-->
+<!--          </div>-->
+<!---->
+<!---->
+<!--          <div class="col-lg-3 col-md-6">-->
+<!--            <div class="member">-->
+<!--              <div class="pic"><img src="img/team-3.jpg" alt=""></div>-->
+<!--              <div class="details">-->
+<!--                <h4>Wairley Von C. Cabiluna</h4>-->
+<!--                <span>Computer Maintenance Technologist</span>-->
+<!--                <div class="social">-->
+<!--                  <a href="#"><i class="fa fa-twitter"></i></a>-->
+<!--                  <a href="#"><i class="fa fa-facebook"></i></a>-->
+<!--                  <a href="#"><i class="fa fa-google-plus"></i></a>-->
+<!--                  <a href="#"><i class="fa fa-linkedin"></i></a>-->
+<!--                </div>-->
+<!--              </div>-->
+<!--            </div>-->
+<!--          </div>-->
+<!---->
+<!---->
+<!--        </div>-->
+<!---->
+<!--      </div>-->
+<!--    </section><!-- #team -->-->
 
     <!--==========================
       Contact Section

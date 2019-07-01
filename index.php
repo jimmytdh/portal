@@ -190,10 +190,22 @@
             <div class="col-lg-6">
                 <a href="<?php echo "$url/nims";?>">
                     <div class="box wow fadeInRight">
-                        <div class="icon"><i class="fa fa-book"></i></div>
+                        <div class="icon"><i class="fa fa-bookmark"></i></div>
                         <h4 class="title">NIMS</h4>
                         <p class="description">
                             Web based system that helps Nursing Service Office to automate churva (Si Roland lang bahala ani)
+                        </p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-lg-6">
+                <a href="<?php echo "$url/exps";?>">
+                    <div class="box wow fadeInRight">
+                        <div class="icon"><i class="fa fa-wheelchair"></i></div>
+                        <h4 class="title">ePCB</h4>
+                        <p class="description">
+                            ePCB or Expanded Primary Care Benefit is an offline web-based system created by Philhealth.
                         </p>
                     </div>
                 </a>

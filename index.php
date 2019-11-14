@@ -242,6 +242,18 @@
                   </div>
 
                   <div class="col-lg-6">
+                      <a href="<?php echo "$url/srs";?>">
+                          <div class="box wow fadeInRight">
+                              <div class="icon"><i class="fa fa-wrench"></i></div>
+                              <h4 class="title">SRS</h4>
+                              <p class="description">
+                                  Service Request System allow users to request or borrow equipments from IT Office.
+                              </p>
+                          </div>
+                      </a>
+                  </div>
+
+                  <div class="col-lg-6">
                       <a href="<?php echo "$url/intranet";?>">
                           <div class="box wow fadeInRight">
                               <div class="icon"><i class="fa fa-archive"></i></div>
@@ -275,19 +287,7 @@
                               </p>
                           </div>
                       </a>
-                  </div>
-
-                  <div class="col-lg-6">
-                      <a href="<?php echo "$url/srs";?>">
-                          <div class="box wow fadeInRight">
-                              <div class="icon"><i class="fa fa-wrench"></i></div>
-                              <h4 class="title">SRS</h4>
-                              <p class="description">
-                                  Service Request System allow users to request or borrow equipments from IT Office.
-                              </p>
-                          </div>
-                      </a>
-                  </div>
+                  </div>                 
               </div>
 
           </div>
